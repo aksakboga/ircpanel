@@ -6,11 +6,13 @@ ircpanel
 Örnek ekran görüntüleri:<br>
 <br>
 
+<img src="http://www.grinet.com.tr/vshell_snaps/vshell_liste.png" alt=""><br>
+<img src="http://www.grinet.com.tr/vshell_snaps/vshell_yeni_sunucu_ekleme.png" alt=""><br>
+
 <img src="http://www.grinet.com.tr/vshell_snaps/vshell_panel_giris.png" alt=""><br>
 <img src="http://www.grinet.com.tr/vshell_snaps/vshell_panel_ornek.png" alt=""><br>
 <img src="http://www.grinet.com.tr/vshell_snaps/vshell_panel_ornek_2.png" alt=""><br>
 <img src="http://www.grinet.com.tr/vshell_snaps/vshell_panel_ornek_3.png" alt=""><br>
-<img src="http://www.grinet.com.tr/vshell_snaps/vshell_yeni_sunucu_ekleme.png" alt=""><br>
 
 <br>
 <br>
